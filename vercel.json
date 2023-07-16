@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://nosey.vercel.com"
+      "destination": "https://nosey.vercel.app"
     }
   ]
 }
